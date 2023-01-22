@@ -21,6 +21,4 @@ def dad(top, bottom):
 
 top_letters = input("What are the letters on the top of the cards? ")
 bottom_letters = input("What are the letters on the bottom of the cards? ")
-print(top_letters)
-print(bottom_letters)
 print(dad(top_letters, bottom_letters))
